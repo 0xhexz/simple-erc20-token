@@ -12,3 +12,4 @@ This project implements a basic ERC20 token using Hardhat and OpenZeppelin.
 
 3. Deploy the token:
    npx hardhat run scripts/deploy.js --network localhost
+Updated for Talent.app detection
