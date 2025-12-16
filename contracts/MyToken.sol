@@ -8,3 +8,4 @@ contract MyToken is ERC20 {
         _mint(msg.sender, initialSupply);
     }
 }
+// Talent.app verification update
